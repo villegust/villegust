@@ -1,4 +1,5 @@
-### Hello 👋
+### Hello everyone 👋
+## I like programming
 
 <p>
   <strong>Skills</strong>
