@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif" width="150"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/feed/">
@@ -7,10 +7,12 @@
     </a>
   </div>
 
-  <h1>
+  <p>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </p>
+
+  ---
 
 </div>
 
